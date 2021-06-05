@@ -1,4 +1,3 @@
-
 salary=int(input("Enter Salary of the employee : "))
 g=input("Enter gender of the employee : ")
 gender=g.upper()
